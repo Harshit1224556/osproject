@@ -64,7 +64,7 @@ This project is licensed under the MIT License.
 📬 Contact
 For queries or suggestions, reach out via [iamharshitsharma518@gmail.com] or open an issue on GitHub.
 
-Developed by Harshit Kumar 🚀
+Developed by Harshit Kumar  Harsh Shukla and Arin Kaushal🚀
 
 
 
